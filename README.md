@@ -2,7 +2,7 @@
 
 A powerful deep learning-based text summarization tool capable of generating summaries in **multiple languages**. This project leverages transformer-based models to summarize long texts effectively, making it useful for cross-lingual NLP applications.
 
-![Model Architecture](https://github.com/AtharvNawal/Multilingual-Text-Summarizer/raw/main/assets/architecture.png)
+<!-- ![Model Architecture](https://github.com/AtharvNawal/Multilingual-Text-Summarizer/raw/main/assets/architecture.png) -->
 
 ---
 
